@@ -10,14 +10,6 @@
 			}
 		},
 		{
-			"action": "allow",
-			"body": {
-				"mode": "contains",
-				"pattern": "高频呼叫电话",
-				"case_sensitive": false
-			}
-		},
-		{
 			"action": "block",
 			"sender": {
 				"mode": "regex",
@@ -40,6 +32,14 @@
 			"body": {
 				"mode": "regex",
 				"pattern": "[开抢|抢购|抢]?.*\\d+元",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "regex",
+				"pattern": "^(?!((\\+|00)86)).*$",
 				"case_sensitive": false
 			}
 		}
