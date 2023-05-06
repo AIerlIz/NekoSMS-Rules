@@ -27,10 +27,11 @@ Maybe ? If I found some messages cannot be blocked , I will update it.
 这是一个给 [NekoSMS](https://github.com/apsun/NekoSMS) 使用的规则，并且该规则对中国大陆用户进行了深度的定制。
 
 部分规则来自 [Coolapk@miroku](https://www.coolapk.com/feed/11843299?shareKey=OTc3MDI1NmZlM2U3NjE4YzgwNzk~)
+[GitHub@PianCat](https://github.com/PianCat/NekoSMS-Rules)
 
 ### 如何食用？
 
-[下载最新规则](https://github.com/PianCat/NekoSMS-Rules/releases)
+[下载最新规则](https://github.com/AIerlIz/NekoSMS-Rules/releases)
 
 在 NekoSMS 中导入规则
 
