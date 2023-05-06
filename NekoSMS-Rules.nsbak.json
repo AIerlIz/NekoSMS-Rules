@@ -39,7 +39,7 @@
 			"action": "block",
 			"sender": {
 				"mode": "regex",
-				"pattern": "^(?!((\\+|00)86)).*$",
+				"pattern": "^(\+|00)\d(?!6).*$",
 				"case_sensitive": false
 			}
 		}
