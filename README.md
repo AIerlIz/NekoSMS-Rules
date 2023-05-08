@@ -18,7 +18,7 @@
 
 应该会，如果我发现某个短信无法被正确拦截，那么我会更新规则。
 
-
+***
 ### What is this ?
 
 This is a Rule For [NekoSMS](https://github.com/apsun/NekoSMS)
