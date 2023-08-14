@@ -10,9 +10,9 @@
 
 ### 如何食用？
 
-[下载最新规则](https://github.com/AIerlIz/NekoSMS-Rules/releases)
+下载最新[规则](https://github.com/AIerlIz/NekoSMS-Rules/releases)
 
-在 [NekoSMS](https://github.com/apsun/NekoSMS/tags) 中导入规则
+在最新 [NekoSMS](https://github.com/apsun/NekoSMS/tags) 中导入规则
 
 ### 规则会持续更新吗？
 
@@ -31,9 +31,9 @@ Some Rules From
 
 ### How To Use？
 
-[Download the Latest Rules](https://github.com/AIerlIz/NekoSMS-Rules/releases)
+Download the Latest [Rules](https://github.com/AIerlIz/NekoSMS-Rules/releases)
 
-Import the file in the [NekoSMS](https://github.com/apsun/NekoSMS/tags)
+Import the file in the latest [NekoSMS](https://github.com/apsun/NekoSMS/tags)
 
 ### Will this strings update ?
 
