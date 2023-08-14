@@ -12,7 +12,7 @@
 
 [下载最新规则](https://github.com/AIerlIz/NekoSMS-Rules/releases)
 
-在 NekoSMS 中导入规则
+在 [NekoSMS](https://github.com/apsun/NekoSMS/tags) 中导入规则
 
 ### 规则会持续更新吗？
 
@@ -33,7 +33,7 @@ Some Rules From
 
 [Download the Latest Rules](https://github.com/AIerlIz/NekoSMS-Rules/releases)
 
-Import the file in the NekoSMS
+Import the file in the [NekoSMS](https://github.com/apsun/NekoSMS/tags)
 
 ### Will this strings update ?
 
