@@ -1,0 +1,47 @@
+{
+	"version": 3,
+	"filters": [
+		{
+			"action": "allow",
+			"body": {
+				"mode": "regex",
+				"pattern": "[验校检确激动安登认识交上随短驗確動檢認識][证验认活态全信易网机入別證驗認態][代密]?(码|碼|口令)|[Cc](ode|ODE)",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "regex",
+				"pattern": "^0?106.*$",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "regex",
+				"pattern": "(拒|退|T|购|复|详|回)(拒|回|复|退|T|d)",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "10001",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "regex",
+				"pattern": "[开抢|抢购|抢]?.*\\d+元",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "regex",
+				"pattern": "^(\\+|00)((?!86).*|(86\\d{10}))$",
+				"case_sensitive": false
+			}
+		}
+	]
+}
