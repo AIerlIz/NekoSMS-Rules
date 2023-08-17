@@ -18,7 +18,7 @@
 			},
 			"body": {
 				"mode": "regex",
-				"pattern": "[拒退购复详回Tt][拒回复退TdD]",
+				"pattern": "[拒退购复详回Tt][拒回复退TtdD]",
 				"case_sensitive": false
 			}
 		},
