@@ -5,7 +5,7 @@
 			"action": "allow",
 			"body": {
 				"mode": "regex",
-				"pattern": "[验校检确激动安登认识交上随短驗確動檢認識][证验认活态全信易网机入別證驗認態][代密]?(码|碼|口令)|[Cc](ode|ODE)",
+				"pattern": "[验校检确激动安登认识交上随短驗確動檢認識][证验认活态全信易网机入別證驗認態][代密]?(码|碼|口令)|[Cc][Oo][Dd][Ee]",
 				"case_sensitive": false
 			}
 		},
@@ -18,7 +18,7 @@
 			},
 			"body": {
 				"mode": "regex",
-				"pattern": "(拒|退|T|购|复|详|回)(拒|回|复|退|T|d)",
+				"pattern": "[拒退购复详回Tt][拒回复退TdD]",
 				"case_sensitive": false
 			}
 		},
@@ -31,7 +31,7 @@
 			},
 			"body": {
 				"mode": "regex",
-				"pattern": "[开抢|抢购|抢]?.*\\d+元",
+				"pattern": "[抢购]?.*\\d+元",
 				"case_sensitive": false
 			}
 		},
